@@ -1,1 +1,11 @@
-# elastic-_regularization_regressions_practice
+# Технические требования
+
+Работа была выполнена на:
+
+**Python**: 3.13.4
+
+# Установка зависимостей
+
+```
+pip install -r requirements.txt
+```
